@@ -1,12 +1,10 @@
 NF17
 ====
 
-Auteurs:
-Préambule: Utiliser PHP 5.5 / PostgreSql
+Projet NF17 : Supermarché Electronique
 
+Auteurs : LUCHIANCENCO Tudor, DAMBRINE Florian, FAYOLLE Pierre, ZHENG Qifan
 
-Projet NF17 - Supermarché Electronique - Quadrinome: LUCHIANCENCO TUDOR &amp; DAMBRINE Florian &amp; FAYOLLE Pierre &amp; ZHENG Qifan
+Préambule: Utiliser PHP 5.5/PostgreSQL
 
-Edition qui va faire du conflict
-
-Lancement du projet sur Git: 21/05/2012
+Lancement du projet sur Git : 21/05/2012
