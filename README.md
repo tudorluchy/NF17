@@ -1,6 +1,6 @@
 Projet NF17 : Supermarché Electronique
 
-Auteurs : LUCHIANCENCO Tudor &amp; DAMBRINE Florian &amp; FAYOLLE Pierre &amp; ZHENG Qifan
+Auteurs : LUCHIANCENCO Tudor, DAMBRINE Florian, FAYOLLE Pierre, ZHENG Qifan
 
 Préambule: Utiliser PHP 5.5/PostgreSQL
 
