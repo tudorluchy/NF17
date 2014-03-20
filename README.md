@@ -1,3 +1,6 @@
+NF17
+====
+
 Projet NF17 : Supermarché Electronique
 
 Auteurs : LUCHIANCENCO Tudor, DAMBRINE Florian, FAYOLLE Pierre, ZHENG Qifan
